@@ -7,14 +7,16 @@ We aim at sharing our knowledge, bringing a personal touch to online communicati
 ## **Get to know our products ⭐**
 
 Having good relations with customers is crucial for us. That’s why you can easily describe our products as tools used to communicate between your business and your customers:
--   [LiveChat](https://www.livechat.com/tour/) is an application that enables the visitors on your site to chat live with your customer support and solve their problems in a second.
+-   [LiveChat](https://www.livechat.com/tour/?utm_source=github.com&utm_medium=referral&utm_campaign=productbarfooter) is an application that enables the visitors on your site to chat live with your customer support and solve their problems in a second.
     
--   [ChatBot](https://www.chatbot.com/?utm_source=livechat.com&utm_medium=referral&utm_campaign=productbarfooter) is an all-in-one platform for building and launching conversational chatbots without coding.
+-   [ChatBot](https://www.chatbot.com/?utm_source=github.com&utm_medium=referral&utm_campaign=productbarfooter) is an all-in-one platform for building and launching conversational chatbots without coding.
     
--   [HelpDesk](https://www.helpdesk.com/?utm_source=livechat.com&utm_medium=referral&utm_campaign=productbarfooter) is a simple ticketing system that allows you to manage all your customer messages in one place.
+-   [HelpDesk](https://www.helpdesk.com/?utm_source=github.com&utm_medium=referral&utm_campaign=productbarfooter) is a simple ticketing system that allows you to manage all your customer messages in one place.
     
 
-- [KnowledgeBase](https://www.knowledgebase.com/?utm_source=livechat.com&utm_medium=referral&utm_campaign=productbarfooter) is software for lightning-fast customer support and effortless self-service.
+- [KnowledgeBase](https://www.knowledgebase.com/?utm_source=github.com&utm_medium=referral&utm_campaign=productbarfooter) is software for lightning-fast customer support and effortless self-service.
+
+- [OpenWidget](https://openwidget.com/?utm_source=github.com&utm_medium=referral&utm_campaign=productbarfooter) is a free website widget for customizing and enhancing websites.
 
 ## **Customize your LiveChat ⚒️**
 We're constantly developing our products to present our customers with more ways to customize LiveChat and integrate with it:
