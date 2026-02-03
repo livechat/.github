@@ -8,20 +8,20 @@ We aim at sharing our knowledge, bringing a personal touch to online communicati
 
 Having good relations with customers is crucial for us. That’s why you can easily describe our products as tools used to communicate between your business and your customers:
 
--   [Text App](https://www.text.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) an AI customer service platform that combines live chat, helpdesk ticketing, AI agents and automation tools.
+- [Text](https://www.text.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) an AI customer service platform that combines live chat, helpdesk ticketing, AI agents and automation tools.
 
--   [LiveChat](https://www.livechat.com/tour/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is an application that enables the visitors on your site to chat live with your customer support and solve their problems in a second.
-    
--   [ChatBot](https://www.chatbot.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is an all-in-one platform for building and launching conversational chatbots without coding.
-    
--   [HelpDesk](https://www.helpdesk.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is a simple ticketing system that allows you to manage all your customer messages in one place.
-    
+- [LiveChat](https://www.livechat.com/tour/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is an application that enables the visitors on your site to chat live with your customer support and solve their problems in a second.
+
+- [ChatBot](https://www.chatbot.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is an all-in-one platform for building and launching conversational chatbots without coding.
+
+- [HelpDesk](https://www.helpdesk.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is a simple ticketing system that allows you to manage all your customer messages in one place.
 
 - [KnowledgeBase](https://www.knowledgebase.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is software for lightning-fast customer support and effortless self-service.
 
 - [OpenWidget](https://openwidget.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) is a free website widget for customizing and enhancing websites.
 
 ## **Customize your LiveChat ⚒️**
+
 We're constantly developing our products to present our customers with more ways to customize LiveChat and integrate with it:
 
 - You can integrate and play with [our APIs](https://developers.livechat.com/docs/getting-started#platform-apis?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription).
@@ -30,19 +30,16 @@ We're constantly developing our products to present our customers with more ways
 
 - You can build your own [chat widget](https://developers.livechat.com/docs/extending-chat-widget/customer-sdk?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription).
 
-## **Text Developer Program 👨🏽‍💻👩‍💻**
-Join [Text Developer Program](https://platform.text.com/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) - built purely for developers by developers! Share your knowledge, get inspired by other developers, meet new people, and build apps and sell them on [LiveChat Marketplace](https://www.livechat.com/marketplace/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription).
+## **Text MCP server 👨🏽‍💻👩‍💻**
 
 [Text MCP server](https://platform.text.com/docs/guides/mcp?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) - The Text Model Context Protocol (MCP) server enables AI assistants to interact with Text features and data directly. This integration allows AI agents to perform real-time customer support operations and automate workflows without manual intervention.
 
-In case of any questions, contact us at [developers@text.com](mailto:developers@text.com).
-
 ## **Join our community! 🫶**
-Good communication without barriers is crucial. We want to share our knowledge and experience, and at the same time, help people and companies not only to grow, but also communicate through the various channels and services we offer:
 
--   [Join our Discord](https://discord.com/invite/NcfJu3a9kM), where you can learn, ask, get inspired, and meet other developers.
-    
--   [Visit LiveChat Marketplace](https://www.livechat.com/marketplace/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) to find the best quality applications that can help your team to increase sales and customer satisfaction. Or create and publish your application and develop your skills and experience as a developer while earning some money.
+Good communication without barriers is crucial. We want to share our knowledge and experience, and at the same time, help people and companies not only to grow, but also communicate through the various channels and services we offer. [Join our Discord](https://discord.com/invite/NcfJu3a9kM), where you can learn, ask, get inspired, and meet other developers.
 
 ## **Extras ✨**
+
 Take a look at our [LiveChat documentation](https://platform.text.com/docs/?utm_source=github.com&utm_medium=referral&utm_campaign=githubdescription) to read more about the LiveChat Platform. If you would like to help us to improve it, feel free to follow the [guidelines](https://github.com/livechat/livechat-public-docs/blob/master/CONTRIBUTING.md).
+
+In case of any questions, contact us at [developers@text.com](mailto:developers@text.com).
